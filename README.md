@@ -7,7 +7,7 @@ This program is a basic shell created in C. It gives you a command-line interfac
 1. Clone this repository to your local machine and enter to "Custom_Shell" folder:
 
     ```bash
-    cd Chess_Simulator_Bash
+    cd Custom_Shell
     ```
 2. Make the script executable:
 
